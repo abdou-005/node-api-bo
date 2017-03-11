@@ -1,0 +1,22 @@
+{
+  "name": "node-bo",
+  "version": "0.0.1",
+  "description": "project test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fs-extra": "^2.0.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.6",
+    "mongoose-relationship": "^0.1.5",
+    "morgan": "^1.8.1",
+    "socket.io": "^1.7.3"
+  }
+}
